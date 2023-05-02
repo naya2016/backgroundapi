@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/hello.php": {
+      "runtime": "vercel/php"
+    }
+  }
+}
