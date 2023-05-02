@@ -1,7 +1,11 @@
 {
   "functions": {
     "api/hello.php": {
-      "runtime": "vercel/php"
+      "runtime": "vercel-php@0.3.1",
+      "excludeFiles": "{test/**}",
+      "memory": 256,
+      "maxDuration": 5
     }
   }
 }
+
