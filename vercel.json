@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/imgcdn.php": {
+    "api/hello.php": {
       "runtime": "vercel-php@0.6.0",
       "excludeFiles": "{test/**}",
       "memory": 256,
